@@ -7,8 +7,6 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love football and love reading computer sciency things!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abeplays&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Connect with me:
 
 [<img align="left" alt="My Portfolio Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -17,3 +15,5 @@
 [website]: https://abeplays.github.io
 [linkedin]: https://www.linkedin.com/in/abe10/
 [memestagram]: https://github.com/AbePlays/Memestagram
+
+![Abe's github stats](https://github-readme-stats.vercel.app/api?username=abeplays&show_icons=true)
