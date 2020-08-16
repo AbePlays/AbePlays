@@ -15,5 +15,3 @@
 [website]: https://abeplays.github.io
 [linkedin]: https://www.linkedin.com/in/abe10/
 [memestagram]: https://github.com/AbePlays/Memestagram
-
-![Abe's github stats](https://github-readme-stats.vercel.app/api?username=abeplays&show_icons=true)
