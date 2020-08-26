@@ -3,7 +3,7 @@
 ## I'm a Developer!
 
 - 🔭 I’m currently working on a [NestJS][nestjs] Project
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning Jest
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love football and love reading computer sciency things!
 
