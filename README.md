@@ -2,7 +2,7 @@
 
 ## I'm a Developer!
 
-- 🔭 I’m currently working on a [Music Streaming App][Music Streaming] Project
+- 🔭 I’m currently working on a [Music Streaming App][Music Streaming App]
 - 🌱 I’m currently learning Jest
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love football and love reading computer sciency things!
