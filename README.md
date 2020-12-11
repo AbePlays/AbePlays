@@ -2,8 +2,8 @@
 
 ## I'm a Developer!
 
-- 🔭 I’m currently working on [Viewster][Viewster]
-- 🌱 I’m currently learning SwiftUI
+- 🔭 I’m currently working on [Outfitr][Outfitr]
+- 🌱 I’m currently learning Spring
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love football and love reading computer sciency things!
 
@@ -18,3 +18,4 @@
 [xkcd]: https://github.com/AbePlays/xkcd
 [Restauro]: https://github.com/AbePlays/Restauro
 [Viewster]: https://github.com/AbePlays/Viewster
+[Outfitr]: https://github.com/AbePlays/Outfitr
