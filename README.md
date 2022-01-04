@@ -3,7 +3,7 @@
 ## I'm a Developer!
 
 - 🔭 I’m currently working on [Gameigo][Gameigo]
-- 🌱 I’m currently learning three.js
+- 🌱 I’m currently learning SvelteKit
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love football and love reading computer sciency things!
 
