@@ -1,5 +1,5 @@
 ### Hi there, I'm Abhishek - aka Abe 👋
-![](https://komarev.com/ghpvc/?username=AbePlays&color=green)
+<!-- ![](https://komarev.com/ghpvc/?username=AbePlays&color=green) -->
 
 ## I'm a Developer!
 
