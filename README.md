@@ -3,7 +3,7 @@
 
 ## I'm a Developer!
 
-- 🔭 I’m currently working on [Gameigo][Gameigo]
+- 🔭 I’m currently working on my Portfolio
 - 🌱 I’m currently learning Remix
 - 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love football and love reading computer sciency things!
