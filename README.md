@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on my Portfolio
 - 🌱 I’m currently learning Remix
-- 🥅 2025 Goals: Learn System Design
+- 🥅 2026 Goals: Learn System Design
 - ⚡ Fun fact: I love football and love reading computer sciency things!
 
 ### Connect with me:
